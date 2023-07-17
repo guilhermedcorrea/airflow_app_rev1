@@ -1,0 +1,180 @@
+[2023-07-15T19:35:58.573+0000] {processor.py:157} INFO - Started process (PID=43) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:35:58.574+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:35:58.575+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.575+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:35:58.578+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:35:58.592+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.023 seconds
+[2023-07-15T19:36:29.017+0000] {processor.py:157} INFO - Started process (PID=113) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:36:29.018+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:36:29.019+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:29.019+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:36:29.021+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:36:29.034+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T19:36:59.528+0000] {processor.py:157} INFO - Started process (PID=151) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:36:59.529+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:36:59.530+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:59.529+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:36:59.532+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:36:59.544+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T19:37:29.798+0000] {processor.py:157} INFO - Started process (PID=195) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:37:29.799+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:37:29.800+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:29.800+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:37:29.802+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:37:29.815+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T19:38:00.070+0000] {processor.py:157} INFO - Started process (PID=233) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:38:00.072+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:38:00.073+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:00.072+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:38:00.074+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:38:00.087+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.021 seconds
+[2023-07-15T19:38:30.267+0000] {processor.py:157} INFO - Started process (PID=277) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:38:30.268+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:38:30.269+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:30.269+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:38:30.271+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:38:30.283+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T19:39:00.456+0000] {processor.py:157} INFO - Started process (PID=315) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:39:00.457+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:39:00.458+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:00.458+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:39:00.460+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:39:00.472+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T19:39:30.681+0000] {processor.py:157} INFO - Started process (PID=353) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:39:30.682+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T19:39:30.683+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:30.683+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:39:30.685+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T19:39:30.699+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.022 seconds
+[2023-07-15T20:21:27.040+0000] {processor.py:157} INFO - Started process (PID=43) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:21:27.041+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:21:27.042+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:27.042+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:21:27.044+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:21:27.057+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.021 seconds
+[2023-07-15T20:21:57.918+0000] {processor.py:157} INFO - Started process (PID=113) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:21:57.919+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:21:57.920+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:57.919+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:21:57.921+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:21:57.934+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T20:22:28.529+0000] {processor.py:157} INFO - Started process (PID=157) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:22:28.529+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:22:28.530+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:28.530+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:22:28.532+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:22:28.545+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T20:22:58.752+0000] {processor.py:157} INFO - Started process (PID=195) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:22:58.753+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:22:58.754+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:58.753+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:22:58.755+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:22:58.767+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T20:23:29.070+0000] {processor.py:157} INFO - Started process (PID=239) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:23:29.071+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:23:29.072+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:29.072+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:23:29.074+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:23:29.086+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T20:23:59.507+0000] {processor.py:157} INFO - Started process (PID=277) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:23:59.509+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:23:59.509+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:59.509+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:23:59.511+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:23:59.523+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T20:24:29.835+0000] {processor.py:157} INFO - Started process (PID=315) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:24:29.837+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:24:29.838+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:29.837+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:24:29.839+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:24:29.854+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.022 seconds
+[2023-07-15T20:25:00.175+0000] {processor.py:157} INFO - Started process (PID=353) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:25:00.177+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:25:00.178+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:00.178+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:25:00.180+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:25:00.193+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.022 seconds
+[2023-07-15T20:25:30.740+0000] {processor.py:157} INFO - Started process (PID=391) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:25:30.741+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:25:30.742+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:30.742+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:25:30.745+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:25:30.758+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.021 seconds
+[2023-07-15T20:26:01.178+0000] {processor.py:157} INFO - Started process (PID=429) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:26:01.180+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:26:01.181+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:01.181+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:26:01.183+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:26:01.198+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.023 seconds
+[2023-07-15T20:26:31.476+0000] {processor.py:157} INFO - Started process (PID=467) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:26:31.477+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:26:31.477+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:31.477+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:26:31.480+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:26:31.491+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T20:27:01.746+0000] {processor.py:157} INFO - Started process (PID=505) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:27:01.747+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:27:01.748+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:01.747+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:27:01.749+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:27:01.763+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T20:27:32.354+0000] {processor.py:157} INFO - Started process (PID=543) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:27:32.355+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:27:32.356+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:32.356+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:27:32.358+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:27:32.374+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.025 seconds
+[2023-07-15T20:28:02.826+0000] {processor.py:157} INFO - Started process (PID=581) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:28:02.827+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:28:02.828+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:02.828+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:28:02.830+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:28:02.845+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.024 seconds
+[2023-07-15T20:28:33.710+0000] {processor.py:157} INFO - Started process (PID=606) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:28:33.711+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:28:33.712+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:33.712+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:28:33.714+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:28:33.726+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T20:29:03.939+0000] {processor.py:157} INFO - Started process (PID=644) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:29:03.940+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:29:03.941+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:03.941+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:29:03.943+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:29:03.955+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T20:29:34.366+0000] {processor.py:157} INFO - Started process (PID=682) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:29:34.367+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:29:34.368+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:34.368+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:29:34.370+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:29:34.384+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.021 seconds
+[2023-07-15T20:30:04.832+0000] {processor.py:157} INFO - Started process (PID=720) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:30:04.833+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:30:04.834+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:04.834+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:30:04.836+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:30:04.847+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.019 seconds
+[2023-07-15T20:30:35.139+0000] {processor.py:157} INFO - Started process (PID=758) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:30:35.140+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:30:35.141+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:35.141+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:30:35.143+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:30:35.158+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.023 seconds
+[2023-07-15T20:31:05.487+0000] {processor.py:157} INFO - Started process (PID=796) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:31:05.489+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:31:05.490+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:05.490+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:31:05.492+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:31:05.505+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.022 seconds
+[2023-07-15T20:31:35.788+0000] {processor.py:157} INFO - Started process (PID=834) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:31:35.789+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:31:35.789+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:35.789+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:31:35.791+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:31:35.805+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.021 seconds
+[2023-07-15T20:32:06.150+0000] {processor.py:157} INFO - Started process (PID=872) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:32:06.151+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:32:06.152+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:06.152+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:32:06.154+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:32:06.166+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T20:32:36.436+0000] {processor.py:157} INFO - Started process (PID=910) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:32:36.437+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:32:36.438+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:36.438+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:32:36.440+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:32:36.452+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T20:33:06.760+0000] {processor.py:157} INFO - Started process (PID=948) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:33:06.761+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:33:06.762+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:06.762+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:33:06.764+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:33:06.777+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.020 seconds
+[2023-07-15T20:33:37.163+0000] {processor.py:157} INFO - Started process (PID=986) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:33:37.164+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:33:37.165+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:37.165+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:33:37.168+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:33:37.181+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.021 seconds
+[2023-07-15T20:34:07.650+0000] {processor.py:157} INFO - Started process (PID=1024) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:34:07.651+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:34:07.652+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:07.651+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:34:07.654+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:34:07.673+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.026 seconds
+[2023-07-15T20:34:38.193+0000] {processor.py:157} INFO - Started process (PID=1062) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:34:38.194+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:34:38.195+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:38.195+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:34:38.197+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:34:38.211+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.021 seconds
+[2023-07-15T20:35:08.562+0000] {processor.py:157} INFO - Started process (PID=1100) to work on /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:35:08.564+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/spark_session_hook.py for tasks to queue
+[2023-07-15T20:35:08.565+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:35:08.564+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:35:08.567+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/spark_session_hook.py
+[2023-07-15T20:35:08.581+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/spark_session_hook.py took 0.023 seconds

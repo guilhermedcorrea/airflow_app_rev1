@@ -1,0 +1,30 @@
+[2023-07-15T17:59:07.188+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: api_dag_executando_rpa_pyautogui_UI_taskflow.api_trigger_dependent_dag scheduled__2023-07-14T00:00:00+00:00 [queued]>
+[2023-07-15T17:59:07.199+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: api_dag_executando_rpa_pyautogui_UI_taskflow.api_trigger_dependent_dag scheduled__2023-07-14T00:00:00+00:00 [queued]>
+[2023-07-15T17:59:07.199+0000] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-07-15T17:59:07.214+0000] {taskinstance.py:1327} INFO - Executing <Task(SimpleHttpOperator): api_trigger_dependent_dag> on 2023-07-14 00:00:00+00:00
+[2023-07-15T17:59:07.217+0000] {standard_task_runner.py:57} INFO - Started process 156 to run task
+[2023-07-15T17:59:07.220+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'api_dag_executando_rpa_pyautogui_UI_taskflow', 'api_trigger_dependent_dag', 'scheduled__2023-07-14T00:00:00+00:00', '--job-id', '76', '--raw', '--subdir', 'DAGS_FOLDER/dag_spider_call_rpa_ui.py', '--cfg-path', '/tmp/tmpf7qzppmn']
+[2023-07-15T17:59:07.221+0000] {standard_task_runner.py:85} INFO - Job 76: Subtask api_trigger_dependent_dag
+[2023-07-15T17:59:07.274+0000] {task_command.py:410} INFO - Running <TaskInstance: api_dag_executando_rpa_pyautogui_UI_taskflow.api_trigger_dependent_dag scheduled__2023-07-14T00:00:00+00:00 [running]> on host 94a7d66a7677
+[2023-07-15T17:59:07.312+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.7/site-packages/***/utils/context.py:205: AirflowContextDeprecationWarning: Accessing 'execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_start' or 'logical_date' instead.
+  warnings.warn(_create_deprecation_warning(key, self._deprecation_replacements[key]))
+
+[2023-07-15T17:59:07.345+0000] {taskinstance.py:1547} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='api_dag_executando_rpa_pyautogui_UI_taskflow' AIRFLOW_CTX_TASK_ID='api_trigger_dependent_dag' AIRFLOW_CTX_EXECUTION_DATE='2023-07-14T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-07-14T00:00:00+00:00'
+[2023-07-15T17:59:07.346+0000] {http.py:123} INFO - Calling HTTP method
+[2023-07-15T17:59:07.363+0000] {taskinstance.py:1824} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/http/operators/http.py", line 125, in execute
+    response = http.run(self.endpoint, self.data, self.headers, self.extra_options)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/http/hooks/http.py", line 148, in run
+    session = self.get_conn(headers)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/http/hooks/http.py", line 100, in get_conn
+    conn = self.get_connection(self.http_conn_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/hooks/base.py", line 72, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/connection.py", line 463, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `***-api` isn't defined
+[2023-07-15T17:59:07.366+0000] {taskinstance.py:1350} INFO - Marking task as FAILED. dag_id=api_dag_executando_rpa_pyautogui_UI_taskflow, task_id=api_trigger_dependent_dag, execution_date=20230714T000000, start_date=20230715T175907, end_date=20230715T175907
+[2023-07-15T17:59:07.376+0000] {standard_task_runner.py:109} ERROR - Failed to execute job 76 for task api_trigger_dependent_dag (The conn_id `***-api` isn't defined; 156)
+[2023-07-15T17:59:07.392+0000] {local_task_job_runner.py:225} INFO - Task exited with return code 1
+[2023-07-15T17:59:07.429+0000] {taskinstance.py:2653} INFO - 0 downstream tasks scheduled from follow-on schedule check

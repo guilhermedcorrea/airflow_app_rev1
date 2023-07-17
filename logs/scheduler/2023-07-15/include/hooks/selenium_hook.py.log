@@ -1,0 +1,180 @@
+[2023-07-15T19:35:58.487+0000] {processor.py:157} INFO - Started process (PID=41) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:35:58.488+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:35:58.489+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.489+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:35:58.493+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:35:58.510+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.028 seconds
+[2023-07-15T19:36:28.985+0000] {processor.py:157} INFO - Started process (PID=111) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:36:28.986+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:36:28.987+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:28.987+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:36:28.989+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:36:29.002+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T19:36:59.495+0000] {processor.py:157} INFO - Started process (PID=149) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:36:59.495+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:36:59.496+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:59.496+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:36:59.498+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:36:59.510+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T19:37:29.763+0000] {processor.py:157} INFO - Started process (PID=193) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:37:29.764+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:37:29.765+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:29.764+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:37:29.767+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:37:29.780+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.020 seconds
+[2023-07-15T19:38:00.036+0000] {processor.py:157} INFO - Started process (PID=231) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:38:00.037+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:38:00.038+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:00.038+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:38:00.040+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:38:00.053+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T19:38:30.234+0000] {processor.py:157} INFO - Started process (PID=275) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:38:30.236+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:38:30.236+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:30.236+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:38:30.238+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:38:30.250+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T19:39:00.420+0000] {processor.py:157} INFO - Started process (PID=313) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:39:00.422+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:39:00.422+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:00.422+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:39:00.425+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:39:00.438+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.022 seconds
+[2023-07-15T19:39:30.643+0000] {processor.py:157} INFO - Started process (PID=351) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:39:30.644+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T19:39:30.645+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:30.645+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:39:30.647+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T19:39:30.661+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.022 seconds
+[2023-07-15T20:21:26.999+0000] {processor.py:157} INFO - Started process (PID=41) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:21:27.001+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:21:27.002+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:27.002+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:21:27.005+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:21:27.018+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.023 seconds
+[2023-07-15T20:21:57.861+0000] {processor.py:157} INFO - Started process (PID=111) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:21:57.862+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:21:57.862+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:57.862+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:21:57.864+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:21:57.877+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T20:22:28.473+0000] {processor.py:157} INFO - Started process (PID=155) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:22:28.474+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:22:28.475+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:28.475+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:22:28.477+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:22:28.489+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T20:22:58.699+0000] {processor.py:157} INFO - Started process (PID=193) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:22:58.700+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:22:58.701+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:58.701+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:22:58.703+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:22:58.715+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T20:23:29.013+0000] {processor.py:157} INFO - Started process (PID=237) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:23:29.014+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:23:29.014+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:29.014+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:23:29.016+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:23:29.029+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T20:23:59.455+0000] {processor.py:157} INFO - Started process (PID=275) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:23:59.457+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:23:59.457+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:59.457+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:23:59.459+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:23:59.472+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.020 seconds
+[2023-07-15T20:24:29.772+0000] {processor.py:157} INFO - Started process (PID=313) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:24:29.773+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:24:29.774+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:29.773+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:24:29.775+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:24:29.789+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.020 seconds
+[2023-07-15T20:25:00.109+0000] {processor.py:157} INFO - Started process (PID=351) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:25:00.110+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:25:00.111+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:00.111+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:25:00.113+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:25:00.130+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.025 seconds
+[2023-07-15T20:25:30.675+0000] {processor.py:157} INFO - Started process (PID=389) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:25:30.679+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:25:30.680+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:30.679+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:25:30.682+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:25:30.696+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.024 seconds
+[2023-07-15T20:26:01.122+0000] {processor.py:157} INFO - Started process (PID=427) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:26:01.123+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:26:01.123+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:01.123+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:26:01.125+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:26:01.139+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.022 seconds
+[2023-07-15T20:26:31.417+0000] {processor.py:157} INFO - Started process (PID=465) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:26:31.419+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:26:31.420+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:31.419+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:26:31.422+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:26:31.435+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.021 seconds
+[2023-07-15T20:27:01.686+0000] {processor.py:157} INFO - Started process (PID=503) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:27:01.687+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:27:01.687+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:01.687+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:27:01.689+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:27:01.702+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.019 seconds
+[2023-07-15T20:27:32.293+0000] {processor.py:157} INFO - Started process (PID=541) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:27:32.294+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:27:32.295+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:32.295+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:27:32.298+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:27:32.311+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.022 seconds
+[2023-07-15T20:28:02.766+0000] {processor.py:157} INFO - Started process (PID=579) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:28:02.767+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:28:02.768+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:02.767+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:28:02.769+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:28:02.782+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.020 seconds
+[2023-07-15T20:28:33.654+0000] {processor.py:157} INFO - Started process (PID=604) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:28:33.655+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:28:33.657+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:33.656+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:28:33.659+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:28:33.673+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.023 seconds
+[2023-07-15T20:29:03.885+0000] {processor.py:157} INFO - Started process (PID=642) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:29:03.886+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:29:03.887+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:03.887+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:29:03.889+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:29:03.902+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.020 seconds
+[2023-07-15T20:29:34.305+0000] {processor.py:157} INFO - Started process (PID=680) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:29:34.307+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:29:34.308+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:34.308+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:29:34.310+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:29:34.324+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.023 seconds
+[2023-07-15T20:30:04.778+0000] {processor.py:157} INFO - Started process (PID=718) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:30:04.779+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:30:04.780+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:04.780+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:30:04.782+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:30:04.796+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.022 seconds
+[2023-07-15T20:30:35.081+0000] {processor.py:157} INFO - Started process (PID=756) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:30:35.083+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:30:35.083+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:35.083+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:30:35.085+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:30:35.099+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.021 seconds
+[2023-07-15T20:31:05.428+0000] {processor.py:157} INFO - Started process (PID=794) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:31:05.429+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:31:05.430+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:05.429+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:31:05.432+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:31:05.446+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.021 seconds
+[2023-07-15T20:31:35.734+0000] {processor.py:157} INFO - Started process (PID=832) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:31:35.735+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:31:35.736+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:35.736+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:31:35.738+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:31:35.752+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.021 seconds
+[2023-07-15T20:32:06.082+0000] {processor.py:157} INFO - Started process (PID=870) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:32:06.083+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:32:06.084+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:06.083+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:32:06.086+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:32:06.100+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.021 seconds
+[2023-07-15T20:32:36.384+0000] {processor.py:157} INFO - Started process (PID=908) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:32:36.385+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:32:36.386+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:36.386+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:32:36.388+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:32:36.400+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.020 seconds
+[2023-07-15T20:33:06.703+0000] {processor.py:157} INFO - Started process (PID=946) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:33:06.705+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:33:06.705+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:06.705+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:33:06.707+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:33:06.721+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.022 seconds
+[2023-07-15T20:33:37.090+0000] {processor.py:157} INFO - Started process (PID=984) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:33:37.091+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:33:37.092+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:37.091+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:33:37.094+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:33:37.111+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.025 seconds
+[2023-07-15T20:34:07.471+0000] {processor.py:157} INFO - Started process (PID=1021) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:34:07.473+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:34:07.474+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:07.473+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:34:07.476+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:34:07.492+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.024 seconds
+[2023-07-15T20:34:38.129+0000] {processor.py:157} INFO - Started process (PID=1060) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:34:38.130+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:34:38.131+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:38.131+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:34:38.134+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:34:38.147+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.022 seconds
+[2023-07-15T20:35:08.467+0000] {processor.py:157} INFO - Started process (PID=1098) to work on /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:35:08.470+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/selenium_hook.py for tasks to queue
+[2023-07-15T20:35:08.472+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:35:08.471+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:35:08.474+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/selenium_hook.py
+[2023-07-15T20:35:08.491+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/selenium_hook.py took 0.028 seconds

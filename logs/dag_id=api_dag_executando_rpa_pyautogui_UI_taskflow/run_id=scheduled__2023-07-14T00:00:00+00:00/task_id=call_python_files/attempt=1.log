@@ -1,0 +1,15 @@
+[2023-07-15T17:59:06.058+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: api_dag_executando_rpa_pyautogui_UI_taskflow.call_python_files scheduled__2023-07-14T00:00:00+00:00 [queued]>
+[2023-07-15T17:59:06.070+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: api_dag_executando_rpa_pyautogui_UI_taskflow.call_python_files scheduled__2023-07-14T00:00:00+00:00 [queued]>
+[2023-07-15T17:59:06.070+0000] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-07-15T17:59:06.086+0000] {taskinstance.py:1327} INFO - Executing <Task(_PythonDecoratedOperator): call_python_files> on 2023-07-14 00:00:00+00:00
+[2023-07-15T17:59:06.090+0000] {standard_task_runner.py:57} INFO - Started process 150 to run task
+[2023-07-15T17:59:06.093+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'api_dag_executando_rpa_pyautogui_UI_taskflow', 'call_python_files', 'scheduled__2023-07-14T00:00:00+00:00', '--job-id', '71', '--raw', '--subdir', 'DAGS_FOLDER/dag_spider_call_rpa_ui.py', '--cfg-path', '/tmp/tmp__ng_m41']
+[2023-07-15T17:59:06.095+0000] {standard_task_runner.py:85} INFO - Job 71: Subtask call_python_files
+[2023-07-15T17:59:06.145+0000] {task_command.py:410} INFO - Running <TaskInstance: api_dag_executando_rpa_pyautogui_UI_taskflow.call_python_files scheduled__2023-07-14T00:00:00+00:00 [running]> on host 94a7d66a7677
+[2023-07-15T17:59:06.232+0000] {taskinstance.py:1547} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='api_dag_executando_rpa_pyautogui_UI_taskflow' AIRFLOW_CTX_TASK_ID='call_python_files' AIRFLOW_CTX_EXECUTION_DATE='2023-07-14T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-07-14T00:00:00+00:00'
+[2023-07-15T17:59:06.233+0000] {logging_mixin.py:150} INFO - A ação starting Foi completada!
+[2023-07-15T17:59:06.233+0000] {logging_mixin.py:150} INFO - {'execution_date': '{{ execution_date }}'}
+[2023-07-15T17:59:06.233+0000] {python.py:183} INFO - Done. Returned value was: None
+[2023-07-15T17:59:06.245+0000] {taskinstance.py:1350} INFO - Marking task as SUCCESS. dag_id=api_dag_executando_rpa_pyautogui_UI_taskflow, task_id=call_python_files, execution_date=20230714T000000, start_date=20230715T175906, end_date=20230715T175906
+[2023-07-15T17:59:06.265+0000] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-07-15T17:59:06.295+0000] {taskinstance.py:2653} INFO - 1 downstream tasks scheduled from follow-on schedule check

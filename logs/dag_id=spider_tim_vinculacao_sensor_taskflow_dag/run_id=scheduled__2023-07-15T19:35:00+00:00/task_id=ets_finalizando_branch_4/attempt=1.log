@@ -1,0 +1,13 @@
+[2023-07-15T19:36:23.559+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_finalizando_branch_4 scheduled__2023-07-15T19:35:00+00:00 [queued]>
+[2023-07-15T19:36:23.569+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_finalizando_branch_4 scheduled__2023-07-15T19:35:00+00:00 [queued]>
+[2023-07-15T19:36:23.569+0000] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-07-15T19:36:23.586+0000] {taskinstance.py:1327} INFO - Executing <Task(ExternalTaskSensor): ets_finalizando_branch_4> on 2023-07-15 19:35:00+00:00
+[2023-07-15T19:36:23.592+0000] {standard_task_runner.py:57} INFO - Started process 80 to run task
+[2023-07-15T19:36:23.596+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'spider_tim_vinculacao_sensor_taskflow_dag', 'ets_finalizando_branch_4', 'scheduled__2023-07-15T19:35:00+00:00', '--job-id', '89', '--raw', '--subdir', 'DAGS_FOLDER/dag_tim_spider_vinculo_rev1.py', '--cfg-path', '/tmp/tmpx_gtc88e']
+[2023-07-15T19:36:23.599+0000] {standard_task_runner.py:85} INFO - Job 89: Subtask ets_finalizando_branch_4
+[2023-07-15T19:36:23.648+0000] {task_command.py:410} INFO - Running <TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_finalizando_branch_4 scheduled__2023-07-15T19:35:00+00:00 [running]> on host b0148edde904
+[2023-07-15T19:36:23.749+0000] {taskinstance.py:1547} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='spider_tim_vinculacao_sensor_taskflow_dag' AIRFLOW_CTX_TASK_ID='ets_finalizando_branch_4' AIRFLOW_CTX_EXECUTION_DATE='2023-07-15T19:35:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-07-15T19:35:00+00:00'
+[2023-07-15T19:36:23.751+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T19:35:00+00:00 ... 
+[2023-07-15T19:37:23.791+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T19:35:00+00:00 ... 
+[2023-07-15T19:38:23.860+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T19:35:00+00:00 ... 
+[2023-07-15T19:39:23.922+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T19:35:00+00:00 ... 

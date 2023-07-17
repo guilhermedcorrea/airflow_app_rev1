@@ -1,0 +1,180 @@
+[2023-07-15T19:35:58.608+0000] {processor.py:157} INFO - Started process (PID=44) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:35:58.609+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:35:58.610+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.610+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:35:58.612+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:35:58.625+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T19:36:29.030+0000] {processor.py:157} INFO - Started process (PID=114) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:36:29.031+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:36:29.032+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:29.031+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:36:29.034+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:36:29.046+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T19:36:59.555+0000] {processor.py:157} INFO - Started process (PID=152) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:36:59.555+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:36:59.556+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:59.556+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:36:59.558+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:36:59.571+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.019 seconds
+[2023-07-15T19:37:29.811+0000] {processor.py:157} INFO - Started process (PID=196) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:37:29.812+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:37:29.813+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:29.813+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:37:29.815+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:37:29.828+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T19:38:00.085+0000] {processor.py:157} INFO - Started process (PID=234) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:38:00.086+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:38:00.087+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:00.086+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:38:00.089+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:38:00.102+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T19:38:30.280+0000] {processor.py:157} INFO - Started process (PID=278) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:38:30.281+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:38:30.282+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:30.282+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:38:30.284+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:38:30.297+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T19:39:00.472+0000] {processor.py:157} INFO - Started process (PID=316) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:39:00.473+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:39:00.474+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:00.474+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:39:00.476+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:39:00.489+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T19:39:30.699+0000] {processor.py:157} INFO - Started process (PID=354) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:39:30.701+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T19:39:30.702+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:30.702+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:39:30.705+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T19:39:30.719+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.023 seconds
+[2023-07-15T20:21:27.069+0000] {processor.py:157} INFO - Started process (PID=44) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:21:27.070+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:21:27.071+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:27.071+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:21:27.073+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:21:27.087+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T20:21:57.922+0000] {processor.py:157} INFO - Started process (PID=114) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:21:57.923+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:21:57.924+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:57.924+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:21:57.926+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:21:57.938+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T20:22:28.533+0000] {processor.py:157} INFO - Started process (PID=158) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:22:28.533+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:22:28.534+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:28.534+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:22:28.536+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:22:28.549+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.019 seconds
+[2023-07-15T20:22:58.764+0000] {processor.py:157} INFO - Started process (PID=196) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:22:58.765+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:22:58.766+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:58.766+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:22:58.768+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:22:58.783+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.022 seconds
+[2023-07-15T20:23:29.100+0000] {processor.py:157} INFO - Started process (PID=240) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:23:29.101+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:23:29.102+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:29.101+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:23:29.103+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:23:29.116+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.019 seconds
+[2023-07-15T20:23:59.521+0000] {processor.py:157} INFO - Started process (PID=278) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:23:59.522+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:23:59.522+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:59.522+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:23:59.524+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:23:59.536+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.019 seconds
+[2023-07-15T20:24:29.847+0000] {processor.py:157} INFO - Started process (PID=316) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:24:29.848+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:24:29.849+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:29.849+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:24:29.851+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:24:29.867+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.024 seconds
+[2023-07-15T20:25:00.209+0000] {processor.py:157} INFO - Started process (PID=354) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:25:00.210+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:25:00.211+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:00.211+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:25:00.213+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:25:00.228+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.023 seconds
+[2023-07-15T20:25:30.754+0000] {processor.py:157} INFO - Started process (PID=392) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:25:30.755+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:25:30.756+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:30.755+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:25:30.758+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:25:30.772+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.022 seconds
+[2023-07-15T20:26:01.198+0000] {processor.py:157} INFO - Started process (PID=430) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:26:01.200+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:26:01.201+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:01.201+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:26:01.203+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:26:01.217+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.023 seconds
+[2023-07-15T20:26:31.487+0000] {processor.py:157} INFO - Started process (PID=468) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:26:31.488+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:26:31.489+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:31.489+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:26:31.491+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:26:31.504+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T20:27:01.750+0000] {processor.py:157} INFO - Started process (PID=506) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:27:01.751+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:27:01.752+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:01.752+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:27:01.754+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:27:01.767+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T20:27:32.359+0000] {processor.py:157} INFO - Started process (PID=544) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:27:32.361+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:27:32.362+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:32.361+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:27:32.365+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:27:32.380+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.024 seconds
+[2023-07-15T20:28:02.829+0000] {processor.py:157} INFO - Started process (PID=582) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:28:02.830+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:28:02.830+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:02.830+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:28:02.832+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:28:02.845+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T20:28:33.724+0000] {processor.py:157} INFO - Started process (PID=607) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:28:33.725+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:28:33.726+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:33.725+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:28:33.727+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:28:33.741+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T20:29:03.952+0000] {processor.py:157} INFO - Started process (PID=645) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:29:03.953+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:29:03.953+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:03.953+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:29:03.955+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:29:04.045+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.097 seconds
+[2023-07-15T20:29:34.371+0000] {processor.py:157} INFO - Started process (PID=683) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:29:34.372+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:29:34.373+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:34.373+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:29:34.375+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:29:34.388+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T20:30:04.846+0000] {processor.py:157} INFO - Started process (PID=721) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:30:04.847+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:30:04.848+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:04.848+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:30:04.850+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:30:04.862+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.019 seconds
+[2023-07-15T20:30:35.158+0000] {processor.py:157} INFO - Started process (PID=759) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:30:35.159+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:30:35.160+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:35.160+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:30:35.162+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:30:35.177+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.022 seconds
+[2023-07-15T20:31:05.501+0000] {processor.py:157} INFO - Started process (PID=797) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:31:05.502+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:31:05.504+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:05.503+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:31:05.506+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:31:05.522+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.024 seconds
+[2023-07-15T20:31:35.804+0000] {processor.py:157} INFO - Started process (PID=835) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:31:35.807+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:31:35.808+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:35.808+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:31:35.811+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:31:35.827+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.028 seconds
+[2023-07-15T20:32:06.162+0000] {processor.py:157} INFO - Started process (PID=873) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:32:06.163+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:32:06.164+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:06.164+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:32:06.166+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:32:06.180+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T20:32:36.450+0000] {processor.py:157} INFO - Started process (PID=911) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:32:36.451+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:32:36.452+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:36.452+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:32:36.454+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:32:36.467+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.020 seconds
+[2023-07-15T20:33:06.774+0000] {processor.py:157} INFO - Started process (PID=949) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:33:06.775+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:33:06.776+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:06.776+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:33:06.778+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:33:06.792+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.021 seconds
+[2023-07-15T20:33:37.178+0000] {processor.py:157} INFO - Started process (PID=987) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:33:37.179+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:33:37.180+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:37.180+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:33:37.183+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:33:37.204+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.029 seconds
+[2023-07-15T20:34:07.656+0000] {processor.py:157} INFO - Started process (PID=1025) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:34:07.657+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:34:07.658+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:07.658+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:34:07.661+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:34:07.682+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.031 seconds
+[2023-07-15T20:34:38.205+0000] {processor.py:157} INFO - Started process (PID=1063) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:34:38.207+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:34:38.207+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:38.207+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:34:38.209+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:34:38.225+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.023 seconds
+[2023-07-15T20:35:08.575+0000] {processor.py:157} INFO - Started process (PID=1101) to work on /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:35:08.576+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/include/hooks/apache_livy_hook.py for tasks to queue
+[2023-07-15T20:35:08.577+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:35:08.577+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:35:08.579+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/include/hooks/apache_livy_hook.py
+[2023-07-15T20:35:08.597+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/include/hooks/apache_livy_hook.py took 0.026 seconds

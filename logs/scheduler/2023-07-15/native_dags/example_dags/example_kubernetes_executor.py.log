@@ -1,0 +1,21 @@
+[2023-07-15T16:36:31.713+0000] {processor.py:157} INFO - Started process (PID=52) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:36:31.714+0000] {processor.py:826} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2023-07-15T16:36:31.715+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:36:31.715+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:36:32.752+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:36:32.766+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:36:32.766+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T16:36:32.800+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:36:32.800+0000] {dag.py:3508} INFO - Setting next_dagrun for example_kubernetes_executor to None, run_after=None
+[2023-07-15T16:36:32.824+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py took 1.115 seconds
+[2023-07-15T16:37:03.007+0000] {processor.py:157} INFO - Started process (PID=126) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:37:03.008+0000] {processor.py:826} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2023-07-15T16:37:03.009+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:37:03.008+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:37:03.246+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:37:03.295+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:37:03.294+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T16:37:03.321+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:37:03.321+0000] {dag.py:3508} INFO - Setting next_dagrun for example_kubernetes_executor to None, run_after=None
+[2023-07-15T16:37:03.346+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.343 seconds
+[2023-07-15T16:37:33.849+0000] {processor.py:157} INFO - Started process (PID=187) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:37:33.849+0000] {processor.py:826} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2023-07-15T16:37:33.850+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:37:33.850+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:37:34.043+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2023-07-15T16:37:34.092+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:37:34.092+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T16:37:34.122+0000] {logging_mixin.py:150} INFO - [2023-07-15T16:37:34.121+0000] {dag.py:3508} INFO - Setting next_dagrun for example_kubernetes_executor to None, run_after=None
+[2023-07-15T16:37:34.143+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.297 seconds

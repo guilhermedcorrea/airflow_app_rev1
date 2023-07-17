@@ -1,0 +1,10 @@
+[2023-07-15T17:46:02.100+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_spider_login_branch_1 scheduled__2023-07-15T17:45:00+00:00 [queued]>
+[2023-07-15T17:46:02.115+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_spider_login_branch_1 scheduled__2023-07-15T17:45:00+00:00 [queued]>
+[2023-07-15T17:46:02.115+0000] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-07-15T17:46:02.133+0000] {taskinstance.py:1327} INFO - Executing <Task(ExternalTaskSensor): ets_spider_login_branch_1> on 2023-07-15 17:45:00+00:00
+[2023-07-15T17:46:02.143+0000] {standard_task_runner.py:57} INFO - Started process 226 to run task
+[2023-07-15T17:46:02.159+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'spider_tim_vinculacao_sensor_taskflow_dag', 'ets_spider_login_branch_1', 'scheduled__2023-07-15T17:45:00+00:00', '--job-id', '65', '--raw', '--subdir', 'DAGS_FOLDER/dag_teste1.py', '--cfg-path', '/tmp/tmp6mxqxs2p']
+[2023-07-15T17:46:02.180+0000] {standard_task_runner.py:85} INFO - Job 65: Subtask ets_spider_login_branch_1
+[2023-07-15T17:46:02.342+0000] {task_command.py:410} INFO - Running <TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_spider_login_branch_1 scheduled__2023-07-15T17:45:00+00:00 [running]> on host 26c64be53ea1
+[2023-07-15T17:46:02.498+0000] {taskinstance.py:1547} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='spider_tim_vinculacao_sensor_taskflow_dag' AIRFLOW_CTX_TASK_ID='ets_spider_login_branch_1' AIRFLOW_CTX_EXECUTION_DATE='2023-07-15T17:45:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-07-15T17:45:00+00:00'
+[2023-07-15T17:46:02.502+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_dag_1 on 2023-07-15T17:45:00+00:00 ... 

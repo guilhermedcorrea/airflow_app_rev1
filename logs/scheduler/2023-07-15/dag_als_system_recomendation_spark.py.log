@@ -1,0 +1,256 @@
+[2023-07-15T19:35:58.133+0000] {processor.py:157} INFO - Started process (PID=37) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:35:58.134+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:35:58.135+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.134+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:35:58.145+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:35:58.292+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.292+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:system_recomendation_als_pyspark
+[2023-07-15T19:35:58.307+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.307+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:system_recomendation_als_pyspark
+[2023-07-15T19:35:58.317+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.316+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:system_recomendation_als_pyspark
+[2023-07-15T19:35:58.336+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.336+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:35:58.350+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.350+0000] {dag.py:2763} INFO - Creating ORM DAG for system_recomendation_als_pyspark
+[2023-07-15T19:35:58.361+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:35:58.361+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:35:58.380+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.251 seconds
+[2023-07-15T19:36:28.802+0000] {processor.py:157} INFO - Started process (PID=107) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:36:28.804+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:36:28.804+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:28.804+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:36:28.813+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:36:28.837+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:28.837+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:36:28.861+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:28.860+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:36:28.878+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.079 seconds
+[2023-07-15T19:36:59.305+0000] {processor.py:157} INFO - Started process (PID=145) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:36:59.306+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:36:59.307+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:59.307+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:36:59.316+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:36:59.341+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:59.341+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:36:59.366+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:36:59.366+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:36:59.385+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.083 seconds
+[2023-07-15T19:37:29.558+0000] {processor.py:157} INFO - Started process (PID=189) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:37:29.559+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:37:29.560+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:29.559+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:37:29.568+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:37:29.595+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:29.595+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:37:29.620+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:29.620+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:37:29.639+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.085 seconds
+[2023-07-15T19:37:59.839+0000] {processor.py:157} INFO - Started process (PID=227) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:37:59.840+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:37:59.841+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:59.841+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:37:59.849+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:37:59.874+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:59.874+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:37:59.898+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:37:59.897+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:37:59.914+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.078 seconds
+[2023-07-15T19:38:30.045+0000] {processor.py:157} INFO - Started process (PID=271) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:38:30.046+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:38:30.047+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:30.047+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:38:30.056+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:38:30.080+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:30.080+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:38:30.105+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:38:30.105+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:38:30.123+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.080 seconds
+[2023-07-15T19:39:00.221+0000] {processor.py:157} INFO - Started process (PID=309) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:39:00.222+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:39:00.223+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:00.223+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:39:00.232+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:39:00.257+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:00.256+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:39:00.281+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:00.281+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:39:00.301+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.084 seconds
+[2023-07-15T19:39:30.418+0000] {processor.py:157} INFO - Started process (PID=347) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:39:30.419+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T19:39:30.420+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:30.420+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:39:30.429+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T19:39:30.458+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:30.458+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T19:39:30.488+0000] {logging_mixin.py:150} INFO - [2023-07-15T19:39:30.488+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T19:39:30.510+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.097 seconds
+[2023-07-15T20:21:26.590+0000] {processor.py:157} INFO - Started process (PID=37) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:21:26.591+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:21:26.592+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:26.591+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:21:26.601+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:21:26.729+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:26.729+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:21:26.755+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:26.754+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:21:26.776+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.190 seconds
+[2023-07-15T20:21:57.646+0000] {processor.py:157} INFO - Started process (PID=107) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:21:57.648+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:21:57.649+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:57.649+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:21:57.660+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:21:57.687+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:57.687+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:21:57.716+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:21:57.715+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:21:57.741+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.099 seconds
+[2023-07-15T20:22:28.293+0000] {processor.py:157} INFO - Started process (PID=151) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:22:28.294+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:22:28.294+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:28.294+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:22:28.303+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:22:28.327+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:28.326+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:22:28.350+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:28.350+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:22:28.368+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.077 seconds
+[2023-07-15T20:22:58.557+0000] {processor.py:157} INFO - Started process (PID=189) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:22:58.558+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:22:58.558+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:58.558+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:22:58.567+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:22:58.592+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:58.591+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:22:58.617+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:22:58.617+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:22:58.640+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.086 seconds
+[2023-07-15T20:23:28.797+0000] {processor.py:157} INFO - Started process (PID=233) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:23:28.798+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:23:28.799+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:28.798+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:23:28.807+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:23:28.833+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:28.833+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:23:28.857+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:28.857+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:23:28.874+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.081 seconds
+[2023-07-15T20:23:59.321+0000] {processor.py:157} INFO - Started process (PID=271) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:23:59.322+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:23:59.322+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:59.322+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:23:59.331+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:23:59.355+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:59.355+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:23:59.379+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:23:59.379+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:23:59.398+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.080 seconds
+[2023-07-15T20:24:29.647+0000] {processor.py:157} INFO - Started process (PID=309) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:24:29.648+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:24:29.649+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:29.648+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:24:29.657+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:24:29.682+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:29.682+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:24:29.706+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:29.706+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:24:29.723+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.080 seconds
+[2023-07-15T20:24:59.859+0000] {processor.py:157} INFO - Started process (PID=347) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:24:59.860+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:24:59.861+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:59.861+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:24:59.869+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:24:59.894+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:59.893+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:24:59.917+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:24:59.917+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:24:59.934+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.078 seconds
+[2023-07-15T20:25:30.484+0000] {processor.py:157} INFO - Started process (PID=385) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:25:30.485+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:25:30.486+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:30.485+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:25:30.495+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:25:30.523+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:30.523+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:25:30.550+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:25:30.550+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:25:30.569+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.088 seconds
+[2023-07-15T20:26:00.977+0000] {processor.py:157} INFO - Started process (PID=423) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:26:00.978+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:26:00.979+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:00.978+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:26:00.987+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:26:01.012+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:01.012+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:26:01.037+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:01.037+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:26:01.057+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.084 seconds
+[2023-07-15T20:26:31.283+0000] {processor.py:157} INFO - Started process (PID=461) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:26:31.284+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:26:31.285+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:31.285+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:26:31.294+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:26:31.318+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:31.318+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:26:31.342+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:26:31.341+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:26:31.359+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.079 seconds
+[2023-07-15T20:27:01.491+0000] {processor.py:157} INFO - Started process (PID=499) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:27:01.493+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:27:01.493+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:01.493+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:27:01.502+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:27:01.528+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:01.528+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:27:01.555+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:01.554+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:27:01.573+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.085 seconds
+[2023-07-15T20:27:32.006+0000] {processor.py:157} INFO - Started process (PID=537) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:27:32.007+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:27:32.008+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:32.008+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:27:32.018+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:27:32.046+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:32.046+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:27:32.076+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:27:32.075+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:27:32.104+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.101 seconds
+[2023-07-15T20:28:02.560+0000] {processor.py:157} INFO - Started process (PID=575) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:28:02.561+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:28:02.562+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:02.562+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:28:02.571+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:28:02.597+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:02.597+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:28:02.625+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:02.625+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:28:02.649+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.092 seconds
+[2023-07-15T20:28:33.505+0000] {processor.py:157} INFO - Started process (PID=600) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:28:33.507+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:28:33.508+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:33.507+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:28:33.517+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:28:33.543+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:33.542+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:28:33.567+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:28:33.567+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:28:33.590+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.089 seconds
+[2023-07-15T20:29:03.751+0000] {processor.py:157} INFO - Started process (PID=638) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:29:03.752+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:29:03.753+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:03.753+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:29:03.763+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:29:03.787+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:03.787+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:29:03.811+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:03.811+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:29:03.829+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.081 seconds
+[2023-07-15T20:29:34.081+0000] {processor.py:157} INFO - Started process (PID=676) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:29:34.082+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:29:34.083+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:34.083+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:29:34.093+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:29:34.123+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:34.122+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:29:34.149+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:29:34.149+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:29:34.184+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.107 seconds
+[2023-07-15T20:30:04.640+0000] {processor.py:157} INFO - Started process (PID=714) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:30:04.641+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:30:04.642+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:04.641+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:30:04.650+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:30:04.675+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:04.675+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:30:04.700+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:04.699+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:30:04.717+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.081 seconds
+[2023-07-15T20:30:34.935+0000] {processor.py:157} INFO - Started process (PID=752) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:30:34.936+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:30:34.937+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:34.936+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:30:34.945+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:30:34.972+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:34.971+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:30:34.998+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:30:34.998+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:30:35.018+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.086 seconds
+[2023-07-15T20:31:05.260+0000] {processor.py:157} INFO - Started process (PID=790) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:31:05.261+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:31:05.262+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:05.262+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:31:05.274+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:31:05.309+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:05.309+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:31:05.340+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:05.339+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:31:05.363+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.107 seconds
+[2023-07-15T20:31:35.587+0000] {processor.py:157} INFO - Started process (PID=828) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:31:35.588+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:31:35.589+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:35.589+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:31:35.599+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:31:35.626+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:35.626+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:31:35.653+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:31:35.652+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:31:35.671+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.088 seconds
+[2023-07-15T20:32:05.952+0000] {processor.py:157} INFO - Started process (PID=866) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:32:05.953+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:32:05.954+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:05.954+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:32:05.963+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:32:05.988+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:05.988+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:32:06.012+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:06.012+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:32:06.030+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.082 seconds
+[2023-07-15T20:32:36.244+0000] {processor.py:157} INFO - Started process (PID=904) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:32:36.245+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:32:36.245+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:36.245+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:32:36.254+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:32:36.281+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:36.280+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:32:36.305+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:32:36.305+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:32:36.323+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.082 seconds
+[2023-07-15T20:33:06.556+0000] {processor.py:157} INFO - Started process (PID=942) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:33:06.558+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:33:06.558+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:06.558+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:33:06.567+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:33:06.593+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:06.592+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:33:06.618+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:06.618+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:33:06.640+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.087 seconds
+[2023-07-15T20:33:36.953+0000] {processor.py:157} INFO - Started process (PID=980) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:33:36.954+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:33:36.955+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:36.955+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:33:36.964+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:33:36.991+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:36.990+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:33:37.016+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:33:37.015+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:33:37.036+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.087 seconds
+[2023-07-15T20:34:07.312+0000] {processor.py:157} INFO - Started process (PID=1018) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:34:07.313+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:34:07.314+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:07.314+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:34:07.324+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:34:07.351+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:07.351+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:34:07.381+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:07.380+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:34:07.402+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.094 seconds
+[2023-07-15T20:34:37.967+0000] {processor.py:157} INFO - Started process (PID=1056) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:34:37.968+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:34:37.969+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:37.969+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:34:37.978+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:34:38.005+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:38.005+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:34:38.032+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:34:38.032+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:34:38.056+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.094 seconds
+[2023-07-15T20:35:08.320+0000] {processor.py:157} INFO - Started process (PID=1094) to work on /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:35:08.321+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_als_system_recomendation_spark.py for tasks to queue
+[2023-07-15T20:35:08.322+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:35:08.322+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:35:08.331+0000] {processor.py:836} INFO - DAG(s) dict_keys(['system_recomendation_als_pyspark']) retrieved from /opt/airflow/dags/dag_als_system_recomendation_spark.py
+[2023-07-15T20:35:08.355+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:35:08.355+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-15T20:35:08.379+0000] {logging_mixin.py:150} INFO - [2023-07-15T20:35:08.379+0000] {dag.py:3508} INFO - Setting next_dagrun for system_recomendation_als_pyspark to None, run_after=None
+[2023-07-15T20:35:08.397+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_als_system_recomendation_spark.py took 0.080 seconds

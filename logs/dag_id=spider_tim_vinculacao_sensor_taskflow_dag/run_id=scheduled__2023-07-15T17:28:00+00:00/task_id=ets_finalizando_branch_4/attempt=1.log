@@ -1,0 +1,32 @@
+[2023-07-15T17:41:12.322+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_finalizando_branch_4 scheduled__2023-07-15T17:28:00+00:00 [queued]>
+[2023-07-15T17:41:12.335+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_finalizando_branch_4 scheduled__2023-07-15T17:28:00+00:00 [queued]>
+[2023-07-15T17:41:12.335+0000] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-07-15T17:41:12.351+0000] {taskinstance.py:1327} INFO - Executing <Task(ExternalTaskSensor): ets_finalizando_branch_4> on 2023-07-15 17:28:00+00:00
+[2023-07-15T17:41:12.355+0000] {standard_task_runner.py:57} INFO - Started process 110 to run task
+[2023-07-15T17:41:12.358+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'spider_tim_vinculacao_sensor_taskflow_dag', 'ets_finalizando_branch_4', 'scheduled__2023-07-15T17:28:00+00:00', '--job-id', '54', '--raw', '--subdir', 'DAGS_FOLDER/dag_teste1.py', '--cfg-path', '/tmp/tmpdpvl3fzh']
+[2023-07-15T17:41:12.364+0000] {standard_task_runner.py:85} INFO - Job 54: Subtask ets_finalizando_branch_4
+[2023-07-15T17:41:12.416+0000] {task_command.py:410} INFO - Running <TaskInstance: spider_tim_vinculacao_sensor_taskflow_dag.ets_finalizando_branch_4 scheduled__2023-07-15T17:28:00+00:00 [running]> on host 26c64be53ea1
+[2023-07-15T17:41:12.505+0000] {taskinstance.py:1547} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='spider_tim_vinculacao_sensor_taskflow_dag' AIRFLOW_CTX_TASK_ID='ets_finalizando_branch_4' AIRFLOW_CTX_EXECUTION_DATE='2023-07-15T17:28:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-07-15T17:28:00+00:00'
+[2023-07-15T17:41:12.506+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T17:28:00+00:00 ... 
+[2023-07-15T17:42:12.579+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T17:28:00+00:00 ... 
+[2023-07-15T17:43:12.654+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T17:28:00+00:00 ... 
+[2023-07-15T17:44:12.728+0000] {external_task.py:236} INFO - Poking for tasks ['my_task'] in dag upstream_finalizando_entrando_dag_4 on 2023-07-15T17:28:00+00:00 ... 
+[2023-07-15T17:44:13.667+0000] {local_task_job_runner.py:292} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2023-07-15T17:44:13.672+0000] {process_utils.py:135} INFO - Sending Signals.SIGTERM to group 110. PIDs of all processes in the group: [110]
+[2023-07-15T17:44:13.673+0000] {process_utils.py:86} INFO - Sending the signal Signals.SIGTERM to group 110
+[2023-07-15T17:44:13.673+0000] {taskinstance.py:1517} ERROR - Received SIGTERM. Terminating subprocesses.
+[2023-07-15T17:44:13.689+0000] {taskinstance.py:1824} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/sensors/base.py", line 253, in execute
+    time.sleep(self._get_next_poke_interval(started_at, run_duration, try_number))
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1519, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2023-07-15T17:44:13.696+0000] {taskinstance.py:1350} INFO - Marking task as FAILED. dag_id=spider_tim_vinculacao_sensor_taskflow_dag, task_id=ets_finalizando_branch_4, execution_date=20230715T172800, start_date=20230715T174112, end_date=20230715T174413
+[2023-07-15T17:44:13.707+0000] {standard_task_runner.py:109} ERROR - Failed to execute job 54 for task ets_finalizando_branch_4 ((psycopg2.errors.ForeignKeyViolation) insert or update on table "task_fail" violates foreign key constraint "task_fail_ti_fkey"
+DETAIL:  Key (dag_id, task_id, run_id, map_index)=(spider_tim_vinculacao_sensor_taskflow_dag, ets_finalizando_branch_4, scheduled__2023-07-15T17:28:00+00:00, -1) is not present in table "task_instance".
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, run_id, map_index, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(run_id)s, %(map_index)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'ets_finalizando_branch_4', 'dag_id': 'spider_tim_vinculacao_sensor_taskflow_dag', 'run_id': 'scheduled__2023-07-15T17:28:00+00:00', 'map_index': -1, 'start_date': datetime.datetime(2023, 7, 15, 17, 41, 12, 323649, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 7, 15, 17, 44, 13, 695556, tzinfo=Timezone('UTC')), 'duration': 181}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj); 110)
+[2023-07-15T17:44:13.726+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=110, status='terminated', exitcode=1, started='17:41:12') (110) terminated with exit code 1
